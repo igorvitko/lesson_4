@@ -13,7 +13,9 @@ while a > 0:           # develop 3
 		print(a)
 	a -= 3
 
-if sum_number(5, 5) > 10:
+if sum_number(5, 5) > 10:  # issue53 - 1
 	print('ok')
 else:
 	print('no')
+
+print(10 * '-', 'new line', 10 * '-')   # issue53 - 2
