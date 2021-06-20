@@ -24,4 +24,5 @@ print(10 * '-', 'new line', 10 * '-')   # issue53 - 2
 b = random.randint(1, 50)    # issue53 - 3
 print(b)
 
-print('new branch issue75')  # issue75
+print('new branch issue75')  # issue75 - 1
+print('second new branch issue75')  # issue75 - 2
