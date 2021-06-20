@@ -12,3 +12,8 @@ while a > 0:           # develop 3
 	if int(a) % 2 == 0:
 		print(a)
 	a -= 3
+
+if sum_number(5, 5) > 10:
+	print('ok')
+else:
+	print('no')
